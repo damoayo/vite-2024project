@@ -20,9 +20,9 @@
  
 ## ☠ 사용 스택 👻
 
-- 🐥 DX-Cloud    /  [미리보기](https://dx-cloud.vercel.app/) <br>  /  ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)
-![Gsap](https://img.shields.io/badge/-Gsap-black?style=flat-square&logo=Gsap)
-![Lenis](https://img.shields.io/badge/-Lenis-black?style=flat-square&logo=Lenis&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)
+![Gsap](https://img.shields.io/badge/-Gsap-mazenda?style=flat-rounded&logo=Gsap)
+![Lenis](https://img.shields.io/badge/-Lenis-royalblue?style=flat-rounded&logo=Lenis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify)
 
 
