@@ -19,7 +19,6 @@
 미리보기 :
 
 ## 사용 스택
-
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)
 ![Gsap](https://img.shields.io/badge/-Gsap-black?style=flat-square&logo=Gsap)
 ![Lenis](https://img.shields.io/badge/-Lenis-black?style=flat-square&logo=Lenis&logoColor=white)
