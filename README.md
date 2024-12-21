@@ -17,17 +17,15 @@
 ## 완성작 보기
 
 미리보기 :
+ 
+## ☠ 사용 스택 👻
 
-## 사용 스택
-## ☠ 현재 작업중 Repository 👻
-
-- 🐥 DX-Cloud    /  [미리보기](https://dx-cloud.vercel.app/) <br>  /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Devextreme](https://img.shields.io/badge/-Devextreme-FF00FF?style=flat-rounded&logo=DevExtreme&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS) <br> / DevExtreme위주의 간단한 웹페이지  [작업중...](https://github.com/damoayo/DX-Cloud)
-- 🐥 music_box    /    [미리보기](https://) <br>  /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white)![zustand](https://img.shields.io/badge/-zustand-slategrey?style=flat-rounded&logo=zustand)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)![shadcn](https://img.shields.io/badge/-shadcn-royalblue?style=flat-rounded&logo=shadcn)&nbsp;![radixUI](https://img.shields.io/badge/-radixUI-coral?style=flat-rounded&logo=radixUI&logoColor=white) <br> / NextJS(버전14) 위주의 YoutubeMusic 웹사이트 [작업중...](https://github.com/damoayo/music_box)
-- 🐥 mamapaiBooks    /    [미리보기](https://)  <br> /  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![Next JS](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS) <br> / NextJS(버전15) 위주의 서적 정보 제공 및 후기 작성과 공유를 위한 모바일 웹 플랫폼 [작업중...](https://github.com/damoayo/mamapaiBooks)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)
+- 🐥 DX-Cloud    /  [미리보기](https://dx-cloud.vercel.app/) <br>  /  ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite&logoColor=white)
 ![Gsap](https://img.shields.io/badge/-Gsap-black?style=flat-square&logo=Gsap)
 ![Lenis](https://img.shields.io/badge/-Lenis-black?style=flat-square&logo=Lenis&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify)
+
+
 
 - vite(https://ko.vitejs.dev/) 를 사용하여 사이트를 번들링하고 관리합니다.
 - gsap(https://greensock.com/gsap) 를 이용하여 패럴랙스 효과를 줍니다.
