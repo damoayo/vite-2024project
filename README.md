@@ -14,7 +14,7 @@
 
 ## 완성작 보기
 
-미리보기 :
+🐠미리보기 : https://vite-2024project-3wbr.vercel.app/
  
 ## ☠ 사용 스택 👻
 
@@ -40,10 +40,10 @@
 - vite를 설치 후 환경 설정을 합니다. `vite.config.js`파일을 만들고 다음과 같이 작성합니다.
 
 ```javascript
-export default {
-  root: "src",
+export default defineConfig({
   build: {
-    outDir: "../public",
+    outDir: 'dist', // 빌드 결과물이 저장될 디렉터리 이름
+    emptyOutDir: true, // 기존 디렉터리를 비우고 새로 빌드
   },
-};
+});
 ```
