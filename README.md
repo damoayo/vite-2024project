@@ -1,6 +1,7 @@
 # 포트폴리오 사이트 만들기 프로젝트
 
 하나의 웹사이트를 여러 가지 프레임워크를 사용하여 만들어 봅니다.
+<img src="./src/assets/img/main.png" alt="커버이미지" width="480" />
 
 1. [vite](https://ko.vitejs.dev/)를 이용하여 사이트를 제작합니다.
 2. [react.js](https://ko.legacy.reactjs.org/)를 이용하여 사이트를 제작합니다.
